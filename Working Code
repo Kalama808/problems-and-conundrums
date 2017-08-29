@@ -1,0 +1,16 @@
+/*Flagg, Kalama
+August 29, 2017
+Beautiful Code*/
+
+
+void setup ()/* This sketch is used to demonstrate Beautiful Code: using proper sketching technique*/
+  size(100,100)
+  fill(153,0,0);
+  rect(100,100,200,200);
+  fill(51,25,0) ;
+  triangle(100,100,300,100,200,0);
+  stroke(255);
+  strokeWeight(4);
+  rect(150,150, 50,50);
+ 
+void draw()};
